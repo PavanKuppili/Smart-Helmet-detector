@@ -1,0 +1,18 @@
+# Helmet Detection System Requirements
+# Core ML/AI dependencies
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=9.0.0
+
+# Hardware communication
+pyserial>=3.5
+
+# Utilities
+numpy>=1.21.0
+
+# Optional: GUI support (if needed later)
+# tkinter  # Usually comes with Python 
